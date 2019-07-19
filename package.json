@@ -1,7 +1,7 @@
 {
-  "name": "mock-nasa-api",
+  "name": "mock-swapi-api",
   "version": "1.0.0",
-  "description": "mock api to return multiple Nasa Photos of the day ",
+  "description": "mock api to return first page of swapi people",
   "main": "index.js",
   "author": "Henry Blevins",
   "license": "MIT",
